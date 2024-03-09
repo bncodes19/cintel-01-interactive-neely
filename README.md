@@ -1,2 +1,2 @@
 # cintel-01-interactive-neely
-First project
+Interactive histogram app using Shiny
